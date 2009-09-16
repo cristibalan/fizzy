@@ -5,7 +5,7 @@ Fizzy is gangsta file matching. Based on Jamis Buck's now unmaintained fuzzy_fil
 
 It does not do its own file exclusions, and is a more optimised for edge cases (empty pattern, one letter pattern).
 
-Works great with [fizzy.vim](http://github.com/evilchelu/fizzy.vim)
+Works great with [fuf-fizzy](http://github.com/evilchelu/fuf-fizzy)
 
 Installing
 ----------
